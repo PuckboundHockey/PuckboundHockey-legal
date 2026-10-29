@@ -1,0 +1,31 @@
+CONTACT PUCKBOUND HOCKEY
+Email Puckboundhockey@gmail.com for game help, bug reports or privacy questions.
+Include what happened, the screen you were on, your device and app version. Never send your private Team ID, sign-in credentials or a screenshot containing them.
+Please remove personal information from screenshots.
+
+HOW TO PLAY
+Drag on the left to skate. Tap SHOOT for a wrist shot, or hold to charge. PASS finds a teammate. On defense, CHECK hits and SWAP switches players. Open HOW TO PLAY on Home for full controls, rewards and pack odds.
+
+YOUR TEAM & SAVES
+Build your lineup with player cards and cosmetic gear. Ratings and stats are fixed.
+Progress saves automatically to your cloud team while connected. Open Team Save and check SAVED TO CLOUD before leaving. Screenshot your private Team ID and keep it private: anyone with it can access your team. There is no email or password recovery, and support cannot recover a lost Team ID. Music and SFX preferences stay on this device.
+
+COINS, BUCKS & PACKS
+Completed Quick Games earn 100 coins for a win or 50 coins for a loss, regardless of opponent or goals scored. No goal coin bonuses. Live play, Quick Skip and Quit Game simulation use the same once-only rewards. Team XP remains 100 XP for a win, 10 XP for a loss, plus 5 XP for each goal your team scores. Sell eligible cards or gear for coins, or exchange 1 Buck for 300 coins. Quick Game does not earn Bucks. New purchases are locked in the current workspace build until native Apple purchase environment and release safety are verified. A sandbox label, development mode or server setting alone does not prove Apple will treat a charge as a test. Connecting a separate sandbox wallet does not unlock purchasing. CHECK PENDING PURCHASES can request verification of an existing reservation without buying again. Verified test purchases add sandbox Bucks, not production Bucks. Real-money checkout is not enabled. Planned prices are estimates and cannot be purchased. Events, tournaments and friend matches are not available yet. Bronze packs cost 150 coins, Silver 1,000 coins, Gold 10 Bucks, Platinum 100 Bucks and Ultra 500 Bucks. Check each pack's information panel for contents and random-draw odds before spending game currency.
+
+UNRESOLVED PURCHASES & REFUNDS
+CHECK PENDING PURCHASES never buys another bundle. Pending does not mean cancelled or uncharged. Delayed, unmatched or unproven transaction evidence stays unresolved; automatic recovery is not guaranteed, and trusted support review may be needed. Keep the original purchase evidence and contact support without private credentials. Apple handles requests for refunds of Apple purchases; refunds are not guaranteed. A verified refund removes available Bucks from that purchase. If those Bucks were spent, the wallet records outstanding Bucks debt, and later credits repay that debt before adding spendable Bucks. A verified refund reversal restores only the original purchase amount, repaying debt first.
+
+SAVE CONFLICTS
+If local progress and the server save disagree during a protected action, automatic uploads pause rather than silently overwrite progress. The device keeps a local gameplay backup and the server snapshot for review or retry. Keep this device's app data until the save issue is resolved; clearing it can remove unsynced progress or pending purchase evidence. A backup is not a promise of recovery.
+
+AUDIO
+SFX controls menu clicks and hockey effects. Music plays a quiet menu loop and stops throughout games, pause, Quick Skip and results. Mute each separately in Options. Audio downloads require a connection and may be cached. Menu Chill Music by etrock is released under CCO 1.0 (public-domain dedication).
+
+LOGOUT PRESERVES YOUR TEAM
+Options → LOG OUT saves pending progress, signs out this device and returns to the welcome menu. Your cloud team, stats, players, gear, lineup, coins, Bucks and all other team progress remain saved, along with a local gameplay backup. Log in with the same private Team ID to continue where you left off, or create a separate new team. Save your private ID before logging out. If saving fails, logout does not continue. Music and SFX preferences remain.
+
+PERMANENT ACCOUNT DELETION
+Options → Team Save → DELETE ACCOUNT is a separate, irreversible action. Once confirmed and successful, it permanently erases your account identity, team and player names, rosters, stats, gear, lineup, coins, Bucks, saves, gameplay history, friendships and private tournaments, and revokes every account session. Account saves and backups on this device are cleared; Music and SFX preferences stay.
+Anonymized numeric shared standings remain, without your name, roster or account link. Minimal transaction-bound payment evidence remains for refunds and duplicate-credit handling, not for recovering your team. Apple and RevenueCat records, copies on other devices and infrastructure backups/logs are not erased by this endpoint. Your private Team ID cannot reopen the erased team. Reusing the original creation key can create a new empty identity, not restore deleted data.
+Deletion requires the connected service to confirm support; it fails closed if support is missing or cannot be checked. The workspace implementation is not yet published to the shared live backend. If the result cannot be confirmed, do not assume deletion succeeded. Contact support for privacy help without sending private credentials.
